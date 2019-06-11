@@ -18,6 +18,7 @@ public class ObserverpatternDemo {
 	public static void main(String[] args) {
 		ProductService subject = new ProductService();
 		
+		
 		/**
 		 * Client configures the number and type of Observers
 		 */
