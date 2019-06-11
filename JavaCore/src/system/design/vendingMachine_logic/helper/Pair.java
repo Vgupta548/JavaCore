@@ -1,4 +1,4 @@
-package system.design.vendingMachine_logic.util;
+package system.design.vendingMachine_logic.helper;
 
 public class Pair<T, E> {
 

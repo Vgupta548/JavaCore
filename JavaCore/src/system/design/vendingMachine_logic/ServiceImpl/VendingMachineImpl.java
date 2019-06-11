@@ -11,9 +11,9 @@ import system.design.vendingMachine_logic.exceptions.NotFullPaidException;
 import system.design.vendingMachine_logic.exceptions.NotSufficientChangeException;
 import system.design.vendingMachine_logic.exceptions.ProductAlreadySelectedException;
 import system.design.vendingMachine_logic.exceptions.SoldOutException;
+import system.design.vendingMachine_logic.helper.Pair;
 import system.design.vendingMachine_logic.models.Inventory;
 import system.design.vendingMachine_logic.service.VendingMachine;
-import system.design.vendingMachine_logic.util.Pair;
 
 public class VendingMachineImpl implements VendingMachine {
 

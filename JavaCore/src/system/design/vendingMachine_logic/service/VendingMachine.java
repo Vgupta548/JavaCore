@@ -4,7 +4,7 @@ import java.util.List;
 
 import system.design.vendingMachine_logic.domain.Coin;
 import system.design.vendingMachine_logic.domain.Product;
-import system.design.vendingMachine_logic.util.Pair;
+import system.design.vendingMachine_logic.helper.Pair;
 
 public interface VendingMachine {
 	
