@@ -19,8 +19,8 @@ public class JavaPassByValue {
 		System.out.println("1 "+s2.hashCode());
 		s2.aaa = "aaaaa";
 		System.out.println("s1 "+s2.aaa);
-		update(s2);
-		System.out.println("s33 "+s2.aaa);
+		update2(s2);
+		System.out.println("s344 "+s2.aaa);
 		System.out.println("33"+s2.hashCode());
 		System.out.println(s2.toString());
 

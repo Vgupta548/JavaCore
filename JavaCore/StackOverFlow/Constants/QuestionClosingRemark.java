@@ -1,0 +1,5 @@
+package Constants;
+
+public enum QuestionClosingRemark {
+	DUPLICATE, OFFTOPIC, TOOBROD, NOTCONSTRUCTIVE, NOTREALQUESTION, PRIMARYOPINIONBASED
+}

@@ -1,0 +1,6 @@
+package bookingconstants;
+
+public enum BookingStatus {
+
+	UNPAID, PENDING, COMPLETE, FAILED, DECLINED, CANCELLED, ABANDONED, SETTLING, SETTLED, REFUNDED
+}
